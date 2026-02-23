@@ -11,3 +11,7 @@ int main() {
 
     return 0;
 }
+
+//sudo, I also faced this problem i think its linux problem i dont check on windows but i think it is.
+
+//this mf is headache 
